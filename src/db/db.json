@@ -1,0 +1,35 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "new user",
+            "authorMail": "aa@gmail.com",
+            "userId": 1
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "userId": 1,
+            "postId": 1
+        }
+    ],
+    "profiles": [
+        {
+            "id": 1,
+            "first_name": "new ddduser",
+            "last_name": "new user",
+            "email": "aa@gmail.com",
+            "password": "asasas"
+        },
+        {
+            "first_name": "ssas",
+            "last_name": "deded",
+            "email": "aa@gmail.co",
+            "password": "Abcd1234!@",
+            "id": 2
+        }
+    ]
+}
